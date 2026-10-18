@@ -7,9 +7,9 @@
 > Elle se dépose **avec** le notebook, dans le même commit. Sans elle, le rendu est incomplet :
 > la feuille de route de l'IA est 🟠 (autorisée **avec déclaration**) pour les exercices.
 
-**Nom et prénom :**
-**Pseudo Kaggle :**
-**Dépôt (lien) :**
+**Nom et prénom :YOVOGAN Curticia
+**Pseudo Kaggle :Curticia Gio
+**Dépôt (lien) :
 **Rendu :** _(E1 / E2 / E3 / B3)_
 **Date :**
 
