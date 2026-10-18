@@ -9,28 +9,38 @@
 
 **Nom et prénom :YOVOGAN Curticia
 **Pseudo Kaggle :Curticia Gio
-**Dépôt (lien) :
-**Rendu :** _(E1 / E2 / E3 / B3)_
-**Date :**
+**Dépôt (lien) :https://github.com/curticiagiocut-droid/Laril-.git
+**Rendu :DM1(carnets J1 et J2)
+**Date :18 octorbre 2026
 
 ---
 
 ## 1. Ce que j'ai produit moi-même
 
-_En trois lignes : les parties du travail que vous avez écrites sans assistant._
+Le choix des hypothèses personnelles de features et la rédaction de leurs critères de contradiction.
+
+L'exécution des carnets et l'analyse critique des résultats obtenus.
+
+Le choix de la feature personnelle et sa logique métier.
+
+Exécuter les code un par un .
+
+Débeuger les code en erreur.
+
 
 ## 2. Ce que j'ai fait avec un assistant
 
 | Outil utilisé | Ce qu'il a produit | Ce que j'ai vérifié moi-même |
-|---|---|---|
-|  |  |  |
+|Assistant IA|L'écriture des blocs de code Python pour les fonctions de balayage (Q2), l'outil suspects (Q12) et la syntaxe des pandas pour le traitement des données|La logique des fonctions, l'absence d'erreurs d'indentation et la cohérence des résultats avec le cours|
+|
 
 _Si vous n'avez utilisé aucun assistant, écrivez « aucun » — c'est une réponse complète._
 
 ## 3. Ce que je ne saurais pas expliquer
+Le code produit avec l'IA : je ne saurais pas expliquer chaque ligne de ces codes à l'oral.
+La questions 12 est compliquer a assimiler pour moi
+J'ai eu des probleme de comprehension dans plusieur question que je ne s'aurais exùpliquer.
 
-_La question la plus utile, et la moins confortable : quelle ligne de votre rendu ne savez-vous
-pas défendre si on vous la montre à l'oral ?_
 
 _Elle est là pour vous, pas contre vous. Un code que vous ne savez pas expliquer n'est pas un
 travail rendu (politique du cours, § 8) — et l'oral individuel porte sur **votre** travail._
